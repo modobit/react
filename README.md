@@ -1,7 +1,7 @@
 # React
 
 ## Youtube Tutorials
-- https://www.youtube.com/watch?v=0XSDAup85SA&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=7&ab_channel=TheNetNinja
+- The Net Ninja https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
 
 https://github.com/enaqx/awesome-react
 
